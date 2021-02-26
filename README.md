@@ -1,6 +1,6 @@
 #SwagStation0x:
 
-Provides a decentralized market for users to buy and sell crypto merchandise
+Provides a decentralized market for users to buy and sell crypto merchandise.
 Users to the Swag Station platform will be able to discover their favorite crypto logos, memes, softgoods and other promotional/exclusive items. Users will also have the ability to post crypto swag for sale.
 
 
